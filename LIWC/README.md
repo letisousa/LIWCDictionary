@@ -1,6 +1,6 @@
 # LIWC  dictionary
 
-O LIWC é um software de análise de texto que calcula o grau de uso de diferentes categorias de palavras em uma ampla variedade de textos. <http://www.liwc.net/>
+O LIWC é um software de análise de texto que calcula o grau de uso de diferentes categorias de palavras em uma ampla variedade de textos.
 
 Basicamente, ele lê um determinado texto e conta a porcentagem de palavras que refletem diferentes emoções, estilos de pensamento, preocupações sociais e até
 mesmo classes gramaticais.Como o LIWC foi desenvolvido por pesquisadores com interesses em psicologia social, clínica, saúde e cognitiva, as categorias de linguagem
@@ -28,5 +28,6 @@ negativa e palavras de afeto geral.
 	- Quantidade de conteúdo: 127.161 palavras; 64 classificações; (quantidade de palavras para cada classificação no arquivo jupyter).
 
 Fontes:
+	http://www.liwc.net/
 	http://liwc.wpengine.com/how-it-works/
 	http://www.languageinquiry.com/LIWC2007LanguageManual.pdf
