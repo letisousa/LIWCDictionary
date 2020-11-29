@@ -25,7 +25,7 @@ negativa e palavras de afeto geral.
 
 	- Primeira parte: cada número associado a uma categoria;
 	- Segunda parte: cada palavra associada as categorias as quais pertence.
-	- Quantidade de conteúdo: 127.161 palavras; 64 classificações; (quantidade de palavras para cada classificação no arquivo jupyter).
+	- Quantidade de dados: 127.161 palavras; 64 classificações; (quantidade de palavras para cada classificação no arquivo jupyter).
 
 Fontes:
 	http://www.liwc.net/
