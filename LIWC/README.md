@@ -27,7 +27,10 @@ negativa e palavras de afeto geral.
 	- Segunda parte: cada palavra associada as categorias as quais pertence.
 	- Quantidade de dados: 127.161 palavras; 64 classificações; (quantidade de palavras para cada classificação no arquivo jupyter).
 
-Fontes:
-	http://www.liwc.net/
-	http://liwc.wpengine.com/how-it-works/
-	http://www.languageinquiry.com/LIWC2007LanguageManual.pdf
+Fontes: 
+
+http://www.liwc.net/
+	
+http://liwc.wpengine.com/how-it-works/
+
+http://www.languageinquiry.com/LIWC2007LanguageManual.pdf
