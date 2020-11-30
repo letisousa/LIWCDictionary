@@ -43,6 +43,10 @@ Abaixo estão dez entradas de SentiLex-flex-PT02.txt:
 	engulam em seco, engolir em seco.PoS = IDIOM; Flex = Y4p | S4p | S3p; TG = HUM: N0; POL: N0 = -1; ANOT = MAN
 	engulamos em seco, engolir em seco.PoS = IDIOM; Flex = Y1p | S1p; TG = HUM: N0; POL: N0 = -1; ANOT = MAN
 
-Quantidade de dados: lem - 7014 termos; flex - 82347 termos;
+Quantidade de dados: 
+
+lem - 7014 termos sendo distribuídos em: POL:N0=-1 4304; POL:N0=1 1255; POL:N0=0  765; POL:N1=-1  6; 
+
+flex - 82347 termos sendo distribuídos em: POL:N0=-1  42919;  POL:N0=1 8862;  POL:N0=0 2640;  POL:N1=-1  315;
 
 Fonte: https://b2share.eudat.eu/records/93ab120efdaa4662baec6adee8e7585f
