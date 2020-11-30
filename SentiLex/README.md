@@ -4,7 +4,7 @@
 Cada linha inclui informações sobre:
 - Lema (convencionalmente, a forma masculina singular para adjetivos, a forma singular para substantivos que são flexionados para número e a forma infinitiva 
   para verbos e expressões idiomáticas),
-- Part-of-speech (ADJ(adjetijo), N(substantivo), V(verbp) e IDIOM(~entendo que seja uma expressão~)), e
+- Part-of-speech (ADJ(adjetijo), N(substantivo), V(verbp) e IDIOM(~entendo que seja uma expressão~), e
 - Atributos de sentimento:
   * Polaridade (POL), que pode ser positiva (1), negativa (-1) ou neutra (0);
   * Alvo de polaridade (TG), que corresponde a um substantivo humano (HUM), funcionando como sujeito (N0) e / ou complemento (N1) do predicado;
@@ -16,6 +16,7 @@ Cada linha inclui informações sobre:
 - REV: POL, o que significa que o código de polaridade atribuído anteriormente à entrada em SentiLex-PT01 foi revisado.
 
 Abaixo estão cinco entradas de SentiLex-lem-PT02.txt:
+
 	aberração.PoS = N; TG = HUM: N0; POL: N0 = -1; ANOT = MAN
 	bonito.PoS = Adj; TG = HUM: N0; POL: N0 = 1; ANOT = MAN
 	castigado; PoS = Adj; TG = HUM: N0; POL: N0 = -1; ANOT = JALC
@@ -30,6 +31,7 @@ Abaixo estão cinco entradas de SentiLex-lem-PT02.txt:
   correspondentes foram extraídos automaticamente do LABEL-LEX-sw.
 
 Abaixo estão dez entradas de SentiLex-flex-PT02.txt:
+
 	aberração, aberração.PoS = N; FLEX = fs; TG = HUM: N0; POL: N0 = -1; ANOT = MAN
 	bonita, bonito.PoS = Adj; FLEX = fs; TG = HUM: N0; POL: N0 = 1; ANOT = MAN
 	bonitas, bonito.PoS = Adj; FLEX = fp; TG = HUM: N0; POL: N0 = 1; ANOT = MAN
