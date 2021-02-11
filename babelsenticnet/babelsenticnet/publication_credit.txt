@@ -1,0 +1,7 @@
+Thank you for using BabelSenticNet!
+
+Please acknowledge the authors by citing the following publication
+in any research work or presentation containing results obtained
+in whole or in part through the use of BabelSenticNet:
+
+D Vilares, H Peng, R Satapathy, E Cambria. BabelSenticNet: A Commonsense Reasoning Framework for Multilingual Sentiment Analysis. Proceedings of IEEE SSCI (2018)
